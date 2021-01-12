@@ -20,4 +20,4 @@ UC Berkeley, Spring 2021
 
 </div>
 
-This website is under construction. Check out [this document](https://docs.google.com/document/d/1hXcZY9OKvAbHDMBZnjYBZ08KM8Sry6TsMEno0mJt5tI/edit) for class information.
+This website is under construction. Check out <a href="https://docs.google.com/document/d/1hXcZY9OKvAbHDMBZnjYBZ08KM8Sry6TsMEno0mJt5tI/edit"> this document </a> for class information.
