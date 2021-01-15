@@ -44,8 +44,8 @@ This website is under construction. Check out <a href="https://docs.google.com/d
 |  | Th 3/11 | 16. Alternative: Dataframes | |
 | 9 | Tu 3/16 | 17. Alternative: Graph data: Property graph models, triples/RDF | |
 |  | Th 3/18 | 18. *Additional time for previous topics* | |
-| | Tu 3/23 | **Spring Break** | | | | |
-| | Th 3/25 | **Spring Break** | | | | |
+| | Tu 3/23 | **Spring Break** | |
+| | Th 3/25 | **Spring Break** | |
 | 10 | Tu 3/30 | 19. Streaming, sketching, and approximation | |
 |  | Th 4/1 | 20. SQL Modifications, Transactions and Recovery | |
 | 11 | Tu 4/6 | 21. Connectors, Logs, Pub-Sub/Queues, Orchestration, CDC & View Maintenance | |
@@ -56,5 +56,5 @@ This website is under construction. Check out <a href="https://docs.google.com/d
 |  | Th 4/22 | 26. Parallelization: Map-Reduce, Spark, Parallel DBMS, Dask/Modin | |
 | 14 | Tu 4/27 | 27. Security and Privacy | |
 |  | Th 4/29 | 28. *Additional time for previous topics* | |
-| 15 | Tu 5/4 | **RRR Week** | | | | |
-|  | Th 5/6 | **RRR Week** | | | | |
+| 15 | Tu 5/4 | **RRR Week** | |
+|  | Th 5/6 | **RRR Week** | |
