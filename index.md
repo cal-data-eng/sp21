@@ -5,6 +5,8 @@ nav_order: 1
 description: A week-to-week description of the content covered in the course.
 ---
 
+<link rel="stylesheet" href="css/index.css">
+
 # Data Engineering
 {: .mb-2 }
 UC Berkeley, Spring 2021
