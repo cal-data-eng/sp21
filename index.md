@@ -30,7 +30,7 @@ This website is under construction. Check out <a href="https://docs.google.com/d
 
 | Week | Date | Lecture | Assignment |
 | :--: | :--: | :--: | :--: |
-| 1 | Tu 1/19 | 1. Introduction | |
+| 1 | Tu 1/19 | 1. [Introduction & Data Science Lifecycle](https://drive.google.com/file/d/1YHhrSqMEV7LfRF5NVyaXcdcB58aJ01af/view?usp=sharing)| |
 | | Th 1/21 | 2. Relational model & algebra; SQL Intro | |
 | 2 | Tu 1/26 | 3. SQL subqueries and aggregation | |
 |  | Th 1/28 | 4. SQL DDL, Database design, Views | |
