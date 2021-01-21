@@ -44,7 +44,7 @@ Office hours are a great place to go for help with multivitamins, projects, or a
  -->
 
 ## Extensions
-If you need an extension for an assignment, email Allen Shen at [allenshen5@berkeley.edu](mailto:allenshen5@berkeley.edu) with your reason for requesting an extension and any relevant documentation if applicable. If you are a DSP student and your accommodation letter allows for extensions, please email us with your extension request so that we can work out an appropriate submission timeline. If you have any other exceptional circumstances, feel free to email Allen or the professors. You may also attend their office hours to discuss these issues.
+Piazza is the main method of communication for this course, and all announcements about the course will be posted there. Join it ASAP if you haven’t already. For administrative and logistics issues, deadline extension requests, alternate exam requests, DSP accommodations, or special accommodations (for emergencies or personal issues), please make a private post on Piazza. If you need an extension, please include your reason for requesting an extension and any relevant documentation if applicable. If you are a DSP student and your accommodation letter allows for extensions, please also contact us with your extension request so that we can work out an appropriate submission timeline. For issues that you do not feel comfortable with posting on Piazza, feel free to email Allen Shen or the professors. You may also attend their office hours to discuss these issues.
 
 <!-- ## Grading TODO: Finalize Grading Policy
  -->
