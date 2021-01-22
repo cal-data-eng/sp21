@@ -31,8 +31,8 @@ The schedule and dates listed below are tentative and may be subject to change. 
 | Week | Date | Lecture | Assignment |
 | :--: | :--: | :--: | :--: |
 | 1 | Tu 1/19 | 1. [Introduction & Data Science Lifecycle](https://drive.google.com/file/d/1YHhrSqMEV7LfRF5NVyaXcdcB58aJ01af/view?usp=sharing)| |
-| | Th 1/21 | 2. Relational model & algebra; SQL Intro | |
-| 2 | Tu 1/26 | 3. SQL subqueries and aggregation | |
+| | Th 1/21 | 2. [Logistics and Relational model & algebra](https://drive.google.com/file/d/1Czg4TDaerduUrDLbfOCnnv_8xyp_yeh6/view?usp=sharing) | |
+| 2 | Tu 1/26 | 3. SQL intro, SQL subqueries and aggregation | |
 |  | Th 1/28 | 4. SQL DDL, Database design, Views | |
 | 3 | Tu 2/2 | 5. Data Integrity: FDs, Constraints & Triggers | |
 |  | Th 2/4 | 6. Index selection, Query processing & optimization | Project 1 |
