@@ -16,6 +16,9 @@ The class will balance foundational concerns with exposure to practical language
 ## Prerequisites
 COMPSCI C100/DATA C100/STAT C100 or COMPSCI 189 or INFO 251 or DATA 144/INFO 254 or equivalent upper-division course in data science. COMPSCI 61A or COMPSCI 88 or INFO 206B or equivalent courses in programming. This class will not assume deep experience with databases or big data solutions.
 
+## Waitlist
+The class is currently full with a long waitlist. Sadly due to teaching budget cuts we won't be able to expand the class or take concurrent enrollment students this semester, and we will let the waitlist play out on its own.
+
 ## Communications
 Please make sure you are enrolled on Piazza and Gradescope. Piazza is our primary method of communication and making announcements, and you are responsible for checking it frequently. We plan on using bCourses only for lecture webcasts. Gradescope is where all assignments are submitted.
 
