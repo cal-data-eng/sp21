@@ -31,6 +31,8 @@ nav_links:
       - 'https://piazza.com/berkeley/spring2021/caldataeng'
     Gradescope:
       - 'https://www.gradescope.com/courses/234388'
+    OH Queue:
+      - 'https://oh.dataeng.not.cs61a.org/'
 aux_links:
   # 'Kevin Lin':
   #   - 'https://kevinl.info'

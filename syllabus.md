@@ -16,7 +16,7 @@ The class will balance foundational concerns with exposure to practical language
 ## Prerequisites
 COMPSCI C100/DATA C100/STAT C100 or COMPSCI 189 or INFO 251 or DATA 144/INFO 254 or equivalent upper-division course in data science. COMPSCI 61A or COMPSCI 88 or INFO 206B or equivalent courses in programming. This class will not assume deep experience with databases or big data solutions.
 
-## Waitlist
+## Enrollment
 The class is currently full with a long waitlist. Sadly due to teaching budget cuts we won't be able to expand the class or take concurrent enrollment students this semester, and we will let the waitlist play out on its own.
 
 ## Communications
@@ -32,7 +32,7 @@ Throughout the semester, we will release 5 programming assignments via Piazza an
 Multivitamins are short written assignments designed to keep you on schedule and check your understanding of the basics from lecture. They will mostly consist of multiple choice questions covering material that is not covered in the projects. If you are struggling with any of the questions on the multivitamin, you are encouraged to come to office hours for help. We will have 5 multivitamins throughout the semester.
 
 ## Office Hours
-Office hours are a great place to go for help with multivitamins, projects, or any other content-related questions. You can find a list of office hours under the Staff tab on this page. The course calendar under the Calendar tab also shows the office hours for the week.
+Office hours are a great place to go for help with multivitamins, projects, or any other content-related questions. You can find a list of office hours under the Staff tab on this page. The course calendar under the Calendar tab also shows the office hours for the week. We will be using an [online office hours queue](https://oh.dataeng.not.cs61a.org/) for all office hours besides professor office hours.
 
 ## Late Policy
 You will get 4 slip days for projects and 4 slip days for multivitamins. Note that these are separate, so you will not receive extra project slip days if you do not use all of your multivitamin slip days. Likewise, using a slip day for a project will not use up one of your multivitamin slip days. Slip days are automatically used in the manner that will optimize your score the most. After using all of your project slip time, you’ll be docked 25% of your score for the project each extra late day on your project submission. Late multivitamin submissions will not be accepted after you use up all of your multivitamin slip time. Note that submission times are rounded up to the next day. That is, 2 minutes late = 1 day late.
