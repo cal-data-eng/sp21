@@ -33,8 +33,8 @@ The schedule and dates listed below are tentative and may be subject to change. 
 | 1 | Tu 1/19 | 1. [Introduction & Data Science Lifecycle](https://drive.google.com/file/d/1YHhrSqMEV7LfRF5NVyaXcdcB58aJ01af/view?usp=sharing)| |
 | | Th 1/21 | 2. [Logistics and Relational model & algebra](https://drive.google.com/file/d/1Czg4TDaerduUrDLbfOCnnv_8xyp_yeh6/view?usp=sharing) | |
 | 2 | Tu 1/26 | 3. [Relational alg. contd. SQL intro](https://drive.google.com/file/d/1nojuIcgyd-npbLUp-65Mz0eW5PXPrgn_/view?usp=sharing) | |
-|  | Th 1/28 | 4. SQL Subqueries and aggregation, DDL, Database design, Views | |
-| 3 | Tu 2/2 | 5. Data Integrity: FDs, Constraints & Triggers | |
+|  | Th 1/28 | 4. [SQL intro, subqueries and aggregation, Views](https://drive.google.com/file/d/1IIewYULvLtaLxFAHwgdnwYLwZ29YAM11/view?usp=sharing) | |
+| 3 | Tu 2/2 | 5. DDL, Database design, Data Integrity: FDs, Constraints & Triggers | |
 |  | Th 2/4 | 6. Index selection, Query processing & optimization | Project 1 |
 | 4 | Tu 2/9 | 7. Index selection, Query processing & optimization (II) | |
 |  | Th 2/11 | 8. Data cleaning & integration | |
