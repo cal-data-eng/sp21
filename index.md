@@ -33,14 +33,14 @@ The schedule and dates listed below are tentative and may be subject to change. 
 | 1 | Tu 1/19 | 1. [Introduction & Data Science Lifecycle](https://drive.google.com/file/d/1YHhrSqMEV7LfRF5NVyaXcdcB58aJ01af/view?usp=sharing)| |
 | | Th 1/21 | 2. [Logistics and Relational model & algebra](https://drive.google.com/file/d/1Czg4TDaerduUrDLbfOCnnv_8xyp_yeh6/view?usp=sharing) | |
 | 2 | Tu 1/26 | 3. [Relational alg. contd. SQL intro](https://drive.google.com/file/d/1nojuIcgyd-npbLUp-65Mz0eW5PXPrgn_/view?usp=sharing) | |
-|  | Th 1/28 | 4. [SQL intro, subqueries and aggregation, Views](https://drive.google.com/file/d/1IIewYULvLtaLxFAHwgdnwYLwZ29YAM11/view?usp=sharing) | |
-| 3 | Tu 2/2 | 5. DDL, Database design, Data Integrity: FDs, Constraints & Triggers | |
-|  | Th 2/4 | 6. Index selection, Query processing & optimization | Project 1 |
-| 4 | Tu 2/9 | 7. Index selection, Query processing & optimization (II) | |
-|  | Th 2/11 | 8. Data cleaning & integration | |
-| 5| Tu 2/16 | 9. Data cleaning & integration (II) | Multivitamin 1 |
-|  | Th 2/18 | 10. Context and Metadata | |
-| 6 | Tu 2/23 | 11. *Additional time for previous topics* | |
+|  | Th 1/28 | 4. [SQL intro, Views](https://drive.google.com/file/d/1IIewYULvLtaLxFAHwgdnwYLwZ29YAM11/view?usp=sharing) | |
+| 3 | Tu 2/2 | 5.  [SQL subqueries and aggregation](https://drive.google.com/file/d/1qUHLUSmANCWrkdjAC45bNho1rXf1Kt_J/view?usp=sharing)| |
+|  | Th 2/4 | 6. DDL, Database design, Data Integrity: FDs, Constraints & Triggers | Project 1 |
+| 4 | Tu 2/9 | 7. Index selection, Query processing & optimization | |
+|  | Th 2/11 | 8. Index selection, Query processing & optimization (II) | |
+| 5| Tu 2/16 | 9. Data cleaning & integration | Multivitamin 1 |
+|  | Th 2/18 | 10. Data cleaning & integration (II) | |
+| 6 | Tu 2/23 | 11. Context and Metadata | |
 |  | Th 2/25 | 12. Alternative: Semistructured data (JSON/XML), Document and KV Stores | Project 2 |
 | 7 | Tu 3/2 | 13. Alternative: Semistructured data (JSON/XML), Document and KV Stores (II) | |
 |  | Th 3/4 | 14. Alternative: Unstructured data & Search | |
