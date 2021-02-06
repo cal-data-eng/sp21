@@ -35,7 +35,7 @@ The schedule and dates listed below are tentative and may be subject to change. 
 | 2 | Tu 1/26 | 3. [Relational alg. contd. SQL intro](https://drive.google.com/file/d/1nojuIcgyd-npbLUp-65Mz0eW5PXPrgn_/view?usp=sharing) | |
 |  | Th 1/28 | 4. [SQL intro, Views](https://drive.google.com/file/d/1IIewYULvLtaLxFAHwgdnwYLwZ29YAM11/view?usp=sharing) | |
 | 3 | Tu 2/2 | 5.  [SQL subqueries and aggregation](https://drive.google.com/file/d/1qUHLUSmANCWrkdjAC45bNho1rXf1Kt_J/view?usp=sharing)| |
-|  | Th 2/4 | 6. [More SQL](https://drive.google.com/file/d/1E1R8rmtNGVGXaLYwxk46EEvrMu6RHoMG/view?usp=sharing), DDL, Database design, Data Integrity: FDs, Constraints & Triggers | Project 1 |
+|  | Th 2/4 | 6. [More SQL](https://drive.google.com/file/d/1E1R8rmtNGVGXaLYwxk46EEvrMu6RHoMG/view?usp=sharing), DDL, Database design, Data Integrity: FDs, Constraints & Triggers | [Project 1](https://cs194.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/cal-data-eng/sp21&subPath=proj/proj1/) (due 2/19) |
 | 4 | Tu 2/9 | 7. Index selection, Query processing & optimization | |
 |  | Th 2/11 | 8. Index selection, Query processing & optimization (II) | |
 | 5| Tu 2/16 | 9. Data cleaning & integration | Multivitamin 1 |
