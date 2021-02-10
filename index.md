@@ -35,14 +35,14 @@ The schedule and dates listed below are tentative and may be subject to change. 
 | 2 | Tu 1/26 | 3. [Relational alg. contd. SQL intro](https://drive.google.com/file/d/1nojuIcgyd-npbLUp-65Mz0eW5PXPrgn_/view?usp=sharing) | |
 |  | Th 1/28 | 4. [SQL intro, Views](https://drive.google.com/file/d/1IIewYULvLtaLxFAHwgdnwYLwZ29YAM11/view?usp=sharing) | |
 | 3 | Tu 2/2 | 5.  [SQL subqueries and aggregation](https://drive.google.com/file/d/1qUHLUSmANCWrkdjAC45bNho1rXf1Kt_J/view?usp=sharing)| |
-|  | Th 2/4 | 6. [More SQL](https://drive.google.com/file/d/1E1R8rmtNGVGXaLYwxk46EEvrMu6RHoMG/view?usp=sharing), DDL, Database design, Data Integrity: FDs, Constraints & Triggers | [Project 1](https://cs194.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/cal-data-eng/sp21&subPath=proj/proj1/) (due 2/19) |
-| 4 | Tu 2/9 | 7. Index selection, Query processing & optimization | |
-|  | Th 2/11 | 8. Index selection, Query processing & optimization (II) | |
-| 5| Tu 2/16 | 9. Data cleaning & integration | Multivitamin 1 |
-|  | Th 2/18 | 10. Data cleaning & integration (II) | |
-| 6 | Tu 2/23 | 11. Context and Metadata | |
-|  | Th 2/25 | 12. Alternative: Semistructured data (JSON/XML), Document and KV Stores | Project 2 |
-| 7 | Tu 3/2 | 13. Alternative: Semistructured data (JSON/XML), Document and KV Stores (II) | |
+|  | Th 2/4 | 6. [More SQL: window functions, sampling, string manipulation](https://drive.google.com/file/d/1E1R8rmtNGVGXaLYwxk46EEvrMu6RHoMG/view?usp=sharing)| [Project 1](https://cs194.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/cal-data-eng/sp21&subPath=proj/proj1/) (due 2/19) |
+| 4 | Tu 2/9 | 7. [SQL updates, DDL, referential integrity, constraints](https://drive.google.com/file/d/1jSe4xsLHDEpquAa7tWC9Z3joWnmyPDtQ/view?usp=sharing) | |
+|  | Th 2/11 | 8. Index selection and performance tuning | |
+| 5| Tu 2/16 | 9. Index selection and performance tuning (II) | Multivitamin 1 |
+|  | Th 2/18 | 10. Data cleaning & integration | |
+| 6 | Tu 2/23 | 11. Data cleaning & integration (II)| |
+|  | Th 2/25 | 12. Context and Metadata | Project 2 |
+| 7 | Tu 3/2 | 13. Alternative: Semistructured data (JSON/XML), Document and KV Stores | |
 |  | Th 3/4 | 14. Alternative: Unstructured data & Search | |
 | 8 | Tu 3/9 | 15. Alternative: Spreadsheets | Multivitamin 2 |
 |  | Th 3/11 | 16. Alternative: Dataframes | |
@@ -50,8 +50,8 @@ The schedule and dates listed below are tentative and may be subject to change. 
 |  | Th 3/18 | 18. *Additional time for previous topics* | |
 | | Tu 3/23 | **Spring Break** | |
 | | Th 3/25 | **Spring Break** | |
-| 10 | Tu 3/30 | 19. Streaming, sketching, and approximation | Multivitamin 3 |
-|  | Th 4/1 | 20. SQL Modifications, Transactions and Recovery | Project 4 |
+| 10 | Tu 3/30 | 19. Triggers, streaming, sketching, and approximation | Multivitamin 3 |
+|  | Th 4/1 | 20. Transactions and Recovery | Project 4 |
 | 11 | Tu 4/6 | 21. Connectors, Logs, Pub-Sub/Queues, Orchestration, CDC & View Maintenance | |
 |  | Th 4/8 | 22. *Additional time for previous topics* | |
 | 12 | Tu 4/13 | 23. BI: OLAP, summarization, and visualization | Multivitamin 4 |
