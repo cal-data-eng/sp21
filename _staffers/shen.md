@@ -4,7 +4,7 @@ role: Teaching Assistant
 email: allenshen5@berkeley.edu
 website: https://allenshen5.github.io/
 photo: ../resources/assets/staff_pics/Allen_Shen.jpg
-oh: TBD
+oh: Monday 1-2 PM
 pronouns: he/him/his
 ---
 
