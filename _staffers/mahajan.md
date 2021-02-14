@@ -3,7 +3,7 @@ name: Aditi Mahajan
 role: Teaching Assistant
 email: aditi.mahajan@berkeley.edu
 photo: ../resources/assets/staff_pics/Aditi_Mahajan.jpg
-oh: Wednesday 12-1 PM
+oh: W 12-1PM
 pronouns: she/her/hers
 ---
 

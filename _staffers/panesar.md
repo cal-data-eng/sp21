@@ -3,7 +3,7 @@ name: Mantej Panesar
 role: Teaching Assistant
 email: mantejpanesar@berkeley.edu
 photo: ../resources/assets/staff_pics/Mantej_Panesar.png
-oh: Friday 1-2 PM
+oh: F 1-2PM
 pronouns: he/him/his
 ---
 

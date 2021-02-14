@@ -4,7 +4,7 @@ role: Reader
 email: lexyyxl@berkeley.edu
 website: https://lexyyxl.github.io/personalWebsite/
 photo: ../resources/assets/staff_pics/Lexy_Li.JPG
-oh: Tuesday 7-8 PM
+oh: Tu 7-8PM
 pronouns: she/her/hers
 ---
 

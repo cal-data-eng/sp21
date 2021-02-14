@@ -3,7 +3,7 @@ name: Nikhil Mandava
 role: Reader
 email: nikmandava@berkeley.edu
 photo: ../resources/assets/staff_pics/Nikhil_Mandava.png
-oh: Thursday 3-4 PM
+oh: Th 3-4PM
 pronouns: he/him/his
 ---
 
