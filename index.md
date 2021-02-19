@@ -38,9 +38,9 @@ The schedule and dates listed below are tentative and may be subject to change. 
 |  | Th 2/4 | 6. [More SQL: window functions, sampling, string manipulation](https://drive.google.com/file/d/1E1R8rmtNGVGXaLYwxk46EEvrMu6RHoMG/view?usp=sharing)| [Project 1](https://cs194.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/cal-data-eng/sp21&subPath=proj/proj1/) (due 2/19) |
 | 4 | Tu 2/9 | 7. [SQL updates, DDL, referential integrity, constraints](https://drive.google.com/file/d/1jSe4xsLHDEpquAa7tWC9Z3joWnmyPDtQ/view?usp=sharing) | |
 |  | Th 2/11 | 8. [Index selection and performance tuning](https://drive.google.com/file/d/1yNaI5k5qzynklUl6ddGeCCSaNaHaJFHF/view?usp=sharing) | |
-| 5| Tu 2/16 | 9. [Index selection and performance tuning (II)](https://drive.google.com/file/d/18WwVTzw7nQekUIcffr2d2x1iLFw1qAbc/view?usp=sharing) | Multivitamin 1 |
-|  | Th 2/18 | 10. [Index selection and performance tuning (III)](https://drive.google.com/file/d/1k3VU43F1o-Oz5xfzqKyh3fctEWyJJ9Os/view?usp=sharing); [Three Data Models: Relations, Tensors and Dataframes](https://drive.google.com/file/d/1E0EW7vEVEi79thdH986ZHvmKGsp6tVym/view?usp=sharing).  | |
-| 6 | Tu 2/23 | 11. Data cleaning & integration (II)| |
+| 5 | Tu 2/16 | 9. [Index selection and performance tuning (II)](https://drive.google.com/file/d/18WwVTzw7nQekUIcffr2d2x1iLFw1qAbc/view?usp=sharing) | |
+|  | Th 2/18 | 10. [Index selection and performance tuning (III)](https://drive.google.com/file/d/1k3VU43F1o-Oz5xfzqKyh3fctEWyJJ9Os/view?usp=sharing); [Three Data Models: Relations, Tensors and Dataframes](https://drive.google.com/file/d/1E0EW7vEVEi79thdH986ZHvmKGsp6tVym/view?usp=sharing) | [Multivitamin 1](https://www.gradescope.com/courses/234388/assignments/1009641/) (due 3/4) |
+| 6 | Tu 2/23 | 11. Data cleaning & integration (II) | |
 |  | Th 2/25 | 12. Context and Metadata | Project 2 |
 | 7 | Tu 3/2 | 13. Alternative: Semistructured data (JSON/XML), Document and KV Stores | |
 |  | Th 3/4 | 14. Alternative: Unstructured data & Search | |
