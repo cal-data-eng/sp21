@@ -42,10 +42,10 @@ The schedule and dates listed below are tentative and may be subject to change. 
 |  | Th 2/18 | 10. [Index selection and performance tuning (III)](https://drive.google.com/file/d/1k3VU43F1o-Oz5xfzqKyh3fctEWyJJ9Os/view?usp=sharing); [Three Data Models: Relations, Tensors and Dataframes](https://drive.google.com/file/d/1E0EW7vEVEi79thdH986ZHvmKGsp6tVym/view?usp=sharing) | [Multivitamin 1](https://www.gradescope.com/courses/234388/assignments/1009641/) (due 3/4) |
 | 6 | Tu 2/23 | 11. Contd. | |
 |  | Th 2/25 | 12. Data Preparation [Full notebook](https://drive.google.com/file/d/1EOVkroIz4oIxL53YnTWIxTJBtFvLPZZM/view?usp=sharing) and [Slide-oriented notebook](https://drive.google.com/file/d/1GV_iG3jaEF8enScaq1_EKR6507g4Y_9d/view?usp=sharing)  | [Project 2](https://cs194.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/cal-data-eng/sp21&subPath=proj/proj2/) (due 3/12) |
-| 7 | Tu 3/2 | 13. Alternative: Semistructured data (JSON/XML), Document and KV Stores | |
-|  | Th 3/4 | 14. Alternative: Unstructured data & Search | |
-| 8 | Tu 3/9 | 15. Alternative: Spreadsheets | Multivitamin 2 |
-|  | Th 3/11 | 16. Alternative: Dataframes | |
+| 7 | Tu 3/2 | 12b. Data Preparation [SLide-oriented notebook](https://drive.google.com/file/d/1GQET-QJU7a0poBEk9sYKN8in_vNYW7AH/view?usp=sharing) | |
+|  | Th 3/4 |  13. Alternative: Semistructured data (JSON/XML), Document and KV Stores| |
+| 8 | Tu 3/9 | 14. Alternative: Unstructured data & Search  | Multivitamin 2 |
+|  | Th 3/11 | 16. Alternative: Spreadsheets & Dataframes | |
 | 9 | Tu 3/16 | 17. Alternative: Graph data: Property graph models, triples/RDF | Project 3 |
 |  | Th 3/18 | 18. *Additional time for previous topics* | |
 | | Tu 3/23 | **Spring Break** | |
