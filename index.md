@@ -45,9 +45,9 @@ The schedule and dates listed below are tentative and may be subject to change. 
 | 7 | Tu 3/2 | 12b. Data Preparation [Slide-oriented notebook](https://github.com/cal-data-eng/cal-data-eng.github.io/blob/master/resources/assets/notebooks/12-data-prep-2/12-dataprep2-slides.ipynb) | |
 |  | Th 3/4 | 12b. Data Preparation, cont. | |
 | 8 | Tu 3/9 | 13. Data Cleaning [Slide-oriented notebook](https://github.com/cal-data-eng/cal-data-eng.github.io/blob/master/resources/assets/notebooks/13-DataCleaning-slides.ipynb)| [Multivitamin 2](https://www.gradescope.com/courses/234388/assignments/1084373/) (due 3/17) |
-|  | Th 3/11 | 14. [Normalization and ER](https://drive.google.com/file/d/1Gt1Aaaz-j3JdHaNjL82q7O_6a5aTBJRG/view?usp=sharing). Semistructured data (JSON/XML), Document and KV Stores | |
-| 9 | Tu 3/16 | 16. Alternative: Spreadsheets & Dataframes | |
-|  | Th 3/18 | 17. Alternative: Graph data: Property graph models, triples/RDF | Multivitamin 3 |
+|  | Th 3/11 |  Contd. | |
+| 9 | Tu 3/16 | 14. [Normalization and ER](https://drive.google.com/file/d/1Gt1Aaaz-j3JdHaNjL82q7O_6a5aTBJRG/view?usp=sharing) 15. [Semistructured Data](https://drive.google.com/file/d/1veUSZfWotpfZG9mnJac1pYDUcDjAjp36/view?usp=sharing)  | |
+|  | Th 3/18 | 16. Spreadsheets & Dataframes. 17. Graph data: Property graph models, triples/RDF | Multivitamin 3 |
 | | Tu 3/23 | **Spring Break** | |
 | | Th 3/25 | **Spring Break** | |
 | 10 | Tu 3/30 | 19. Triggers, streaming, sketching, and approximation | Project 3 |
