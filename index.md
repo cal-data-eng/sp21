@@ -50,7 +50,7 @@ The schedule and dates listed below are tentative and may be subject to change. 
 |  | Th 3/18 | 16. Spreadsheets & Dataframes. 17. Graph data: Property graph models, triples/RDF | [Multivitamin 3](https://www.gradescope.com/courses/234388/assignments/1097711/) (due 3/31) |
 | | Tu 3/23 | **Spring Break** | |
 | | Th 3/25 | **Spring Break** | |
-| 10 | Tu 3/30 | 19. Triggers, streaming, sketching, and approximation | Project 3 |
+| 10 | Tu 3/30 | 19. Triggers, streaming, sketching, and approximation | [Project 3](https://cs194.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/cal-data-eng/sp21&subPath=proj/proj3/) (due 4/13) |
 |  | Th 4/1 | 20. Transactions and Recovery | |
 | 11 | Tu 4/6 | 21. Connectors, Logs, Pub-Sub/Queues, Orchestration, CDC & View Maintenance | |
 |  | Th 4/8 | 22. *Additional time for previous topics* | Multivitamin 4 |
