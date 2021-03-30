@@ -46,19 +46,19 @@ The schedule and dates listed below are tentative and may be subject to change. 
 |  | Th 3/4 | 12b. Data Preparation, cont. | |
 | 8 | Tu 3/9 | 13. Data Cleaning [Slide-oriented notebook](https://github.com/cal-data-eng/cal-data-eng.github.io/blob/master/resources/assets/notebooks/13-DataCleaning-slides.ipynb)| [Multivitamin 2](https://www.gradescope.com/courses/234388/assignments/1084373/) (due 3/17) |
 |  | Th 3/11 |  Contd. | |
-| 9 | Tu 3/16 | 14. [Normalization and ER](https://drive.google.com/file/d/1Gt1Aaaz-j3JdHaNjL82q7O_6a5aTBJRG/view?usp=sharing) 15. [Semistructured Data](https://drive.google.com/file/d/1veUSZfWotpfZG9mnJac1pYDUcDjAjp36/view?usp=sharing)  | |
-|  | Th 3/18 | 16. Spreadsheets & Dataframes. 17. Graph data: Property graph models, triples/RDF | [Multivitamin 3](https://www.gradescope.com/courses/234388/assignments/1097711/) (due 3/31) |
+| 9 | Tu 3/16 | 14. [Normalization and ER](https://drive.google.com/file/d/1Gt1Aaaz-j3JdHaNjL82q7O_6a5aTBJRG/view?usp=sharing)   | |
+|  | Th 3/18 | 15. [Semistructured Data](https://drive.google.com/file/d/1veUSZfWotpfZG9mnJac1pYDUcDjAjp36/view?usp=sharing) | [Multivitamin 3](https://www.gradescope.com/courses/234388/assignments/1097711/) (due 3/31) |
 | | Tu 3/23 | **Spring Break** | |
 | | Th 3/25 | **Spring Break** | |
-| 10 | Tu 3/30 | 19. Triggers, streaming, sketching, and approximation | [Project 3](https://cs194.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/cal-data-eng/sp21&subPath=proj/proj3/) (due 4/13) |
-|  | Th 4/1 | 20. Transactions and Recovery | |
-| 11 | Tu 4/6 | 21. Connectors, Logs, Pub-Sub/Queues, Orchestration, CDC & View Maintenance | |
-|  | Th 4/8 | 22. *Additional time for previous topics* | Multivitamin 4 |
-| 12 | Tu 4/13 | 23. BI: OLAP, summarization, and visualization | |
-|  | Th 4/15 | 24. ML: Model training, serving, and monitoring | Project 4 |
-| 13 | Tu 4/20 | 25. Storage: File/object stores, Columnar vs. row, Compression, Exchange formats | |
-|  | Th 4/22 | 26. Parallelization: Map-Reduce, Spark, Parallel DBMS, Dask/Modin | |
-| 14 | Tu 4/27 | 27. Security and Privacy | Multivitamin 5 |
-|  | Th 4/29 | 28. *Additional time for previous topics* | Extra Credit Project |
+| 10 | Tu 3/30 | 16. [Querying semistructured data](https://drive.google.com/file/d/1B4HbHjQag7iYp2aO32ecOlpXjHaaEJov/view?usp=sharing) | [Project 3](https://cs194.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/cal-data-eng/sp21&subPath=proj/proj3/) (due 4/13) |
+|  | Th 4/1 | 17. Spreadsheets   | |
+| 11 | Tu 4/6 | 18. Graph data: Property graph models, triples/RDF   | |
+|  | Th 4/8 |19. BI: OLAP, summarization, and visualization | Multivitamin 4 |
+| 12 | Tu 4/13 | 20. Transactions and Recovery  21. Connectors, Logs, Pub-Sub/Queues, Orchestration, CDC & View Maintenance  | |
+|  | Th 4/15 | 22. Triggers, streaming, sketching, and approximation | Project 4 |
+| 13 | Tu 4/20 | 23. ML: Model training, serving, and monitoring | |
+|  | Th 4/22 | 24. Storage: File/object stores, Columnar vs. row, Compression, Exchange formats | |
+| 14 | Tu 4/27 | 25. Parallelization: Map-Reduce, Spark, Parallel DBMS, Dask/Modin | Multivitamin 5 |
+|  | Th 4/29 | 26. Security and Privacy | Extra Credit Project |
 | 15 | Tu 5/4 | **RRR Week** | |
 |  | Th 5/6 | **RRR Week** | |
