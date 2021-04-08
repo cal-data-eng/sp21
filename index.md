@@ -53,7 +53,7 @@ The schedule and dates listed below are tentative and may be subject to change. 
 | 10 | Tu 3/30 | 16. [Querying semistructured data](https://drive.google.com/file/d/1B4HbHjQag7iYp2aO32ecOlpXjHaaEJov/view?usp=sharing) | [Project 3](https://cs194.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/cal-data-eng/sp21&subPath=proj/proj3/) (due 4/13) |
 |  | Th 4/1 | Contd.    | |
 | 11 | Tu 4/6 | 17. [Spreadsheets](https://drive.google.com/file/d/1PzrqNVsYWdYZi5jPmnl-SdeXpbocQtnv/view?usp=sharing)  | |
-|  | Th 4/8 | 18. Graph data: Property graph models, triples/RDF   19. BI: OLAP, summarization, and visualization | [Multivitamin 4](https://www.gradescope.com/courses/234388/assignments/1160303) (due 4/16) |
+|  | Th 4/8 | 18. [Graph data: Property graph models, triples/RDF](https://drive.google.com/file/d/1n4sVrOscesHiGJQ4VfppmwQExz4bmSKf/view?usp=sharing)   19. [BI: OLAP, summarization, and visualization](https://drive.google.com/file/d/1yZJ73e1R2IBpdW6OpkFxNHrst2YmvI_E/view?usp=sharing) | [Multivitamin 4](https://www.gradescope.com/courses/234388/assignments/1160303) (due 4/16) |
 | 12 | Tu 4/13 | 20. Transactions and Recovery  21. Connectors, Logs, Pub-Sub/Queues, Orchestration, CDC & View Maintenance  | |
 |  | Th 4/15 | 22. Triggers, streaming, sketching, and approximation | Project 4 |
 | 13 | Tu 4/20 | 23. ML: Model training, serving, and monitoring | |
