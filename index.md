@@ -55,7 +55,7 @@ The schedule and dates listed below are tentative and may be subject to change. 
 | 11 | Tu 4/6 | 17. [Spreadsheets](https://drive.google.com/file/d/1PzrqNVsYWdYZi5jPmnl-SdeXpbocQtnv/view?usp=sharing)  | |
 |  | Th 4/8 | 18. [Graph data: Property graph models, triples/RDF](https://drive.google.com/file/d/1n4sVrOscesHiGJQ4VfppmwQExz4bmSKf/view?usp=sharing)   19. [BI: OLAP, summarization, and visualization](https://drive.google.com/file/d/1yZJ73e1R2IBpdW6OpkFxNHrst2YmvI_E/view?usp=sharing) | [Multivitamin 4](https://www.gradescope.com/courses/234388/assignments/1160303) (due 4/19) |
 | 12 | Tu 4/13 | 20. [Transactions](https://drive.google.com/file/d/1yqCbOibXzcWTkrTFn6AG_FM1wqOBcCqc/view?usp=sharing)   | |
-|  | Th 4/15 | 21. Workflow and CI/CD for data | Project 4 |
+|  | Th 4/15 | 21. [Data Pipelines](https://drive.google.com/file/d/18uas--P7w_c85bwKAAfiPViK0SVe5mFH/view?usp=sharing) | Project 4 |
 | 13 | Tu 4/20 | 22. Approximation: sketching and sampling  | |
 |  | Th 4/22 | 23. ML: Model training, serving, and monitoring 24. Storage: File/object stores, Columnar vs. row, Compression, Exchange formats | |
 | 14 | Tu 4/27 | 25. Parallelization: Map-Reduce, Spark, Parallel DBMS, Dask/Modin | Multivitamin 5 |
