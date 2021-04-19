@@ -23,13 +23,13 @@ The class is currently full with a long waitlist. Sadly due to teaching budget c
 Please make sure you are enrolled on Piazza and Gradescope. Piazza is our primary method of communication and making announcements, and you are responsible for checking it frequently. We plan on using bCourses only for lecture webcasts. Gradescope is where all assignments are submitted.
 
 ## Grading
-Roughly 64% of your grade will come from projects, and roughly 36% of your grade will come from multivitamins. There will be no exams in the course for this semester. Please note that we will be tolerant in grading because of the experimental nature of the course.
+64% of your grade will come from projects, and 36% of your grade will come from multivitamins. Each project and multivitamin will be weighted equally. There will be no exams in the course for this semester. Please note that we will be tolerant in grading because of the experimental nature of the course.
 
 ### Projects
-Throughout the semester, we will release 5 programming assignments via Piazza and the website. The 5th project will be extra credit for undergraduate students enrolled in CS 194-35 and required for graduate students enrolled in Info 290T-2.
+Throughout the semester, we will release 5 programming assignments via Piazza and the website. The 5th project will be extra credit for undergraduate students enrolled in CS 194-35 and required for graduate students enrolled in Info 290T-2. For CS 194-35 students, the first four projects are each worth 16% of your grade, and you can earn up to 8% extra credit from the 5th project. For Info 290T-2, each of the five projects is worth 12.8% of your grade.
 
 ### Multivitamins
-Multivitamins are short written assignments designed to keep you on schedule and check your understanding of the basics from lecture. They will mostly consist of multiple choice questions covering material that is not covered in the projects. If you are struggling with any of the questions on the multivitamin, you are encouraged to come to office hours for help. We will have 5 multivitamins throughout the semester.
+Multivitamins are short written assignments designed to keep you on schedule and check your understanding of the basics from lecture. They will mostly consist of multiple choice questions covering material that is not covered in the projects. If you are struggling with any of the questions on the multivitamin, you are encouraged to come to office hours for help. We will have 5 multivitamins throughout the semester. Each multivitamin will be worth 7.2% of your grade.
 
 ## Office Hours
 Office hours are a great place to go for help with multivitamins, projects, or any other content-related questions. You can find a list of office hours under the Staff tab on this page. The course calendar under the Calendar tab also shows the office hours for the week. We will be using an [online office hours queue](https://oh.dataeng.not.cs61a.org/) for all office hours besides professor office hours.
