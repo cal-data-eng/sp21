@@ -56,7 +56,7 @@ The schedule and dates listed below are tentative and may be subject to change. 
 |  | Th 4/8 | 18. [Graph data: Property graph models, triples/RDF](https://drive.google.com/file/d/1n4sVrOscesHiGJQ4VfppmwQExz4bmSKf/view?usp=sharing)   19. [BI: OLAP, summarization, and visualization](https://drive.google.com/file/d/1yZJ73e1R2IBpdW6OpkFxNHrst2YmvI_E/view?usp=sharing) | [Multivitamin 4](https://www.gradescope.com/courses/234388/assignments/1160303) (due 4/19) |
 | 12 | Tu 4/13 | 20. [Transactions](https://drive.google.com/file/d/1yqCbOibXzcWTkrTFn6AG_FM1wqOBcCqc/view?usp=sharing)   | |
 |  | Th 4/15 | 21. [Data Pipelines](https://drive.google.com/file/d/1pYEWweq1jp4tgSuJjsiO7jFKBh7PJ2Po/view?usp=sharing) | |
-| 13 | Tu 4/20 | 22. [Approximation: sampling and sketching]https://github.com/cal-data-eng/cal-data-eng.github.io/blob/master/resources/assets/notebooks/22-ApproximationSamplingSketching-slides.ipynb)  | [Project 4](https://cs194.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/cal-data-eng/sp21&subPath=proj/proj4/) (due 5/4) |
+| 13 | Tu 4/20 | 22. [Approximation: sampling and sketching](https://github.com/cal-data-eng/cal-data-eng.github.io/blob/master/resources/assets/notebooks/22-ApproximationSamplingSketching-slides.ipynb)  | [Project 4](https://cs194.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/cal-data-eng/sp21&subPath=proj/proj4/) (due 5/4) |
 |  | Th 4/22 | 23. ML: Model training, serving, and monitoring 24. Storage: File/object stores, Columnar vs. row, Compression, Exchange formats | |
 | 14 | Tu 4/27 | 25. Parallelization: Map-Reduce, Spark, Parallel DBMS, Dask/Modin | Multivitamin 5 |
 |  | Th 4/29 | 26. Security and Privacy | Extra Credit Project |
