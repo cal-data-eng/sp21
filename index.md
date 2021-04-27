@@ -58,7 +58,7 @@ The schedule and dates listed below are tentative and may be subject to change. 
 |  | Th 4/15 | 21. [Data Pipelines](https://drive.google.com/file/d/1pYEWweq1jp4tgSuJjsiO7jFKBh7PJ2Po/view?usp=sharing) | |
 | 13 | Tu 4/20 | 22. [Approximation: sampling and sketching](https://github.com/cal-data-eng/cal-data-eng.github.io/blob/master/resources/assets/notebooks/22-ApproximationSamplingSketching-slides.ipynb)  | [Project 4](https://cs194.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/cal-data-eng/sp21&subPath=proj/proj4/) (due 5/4) |
 |  | Th 4/22 | 23. [Storage: Column vs. row, Compression, Exchange formats](https://drive.google.com/file/d/11KfHo_AC5fGd21fpkXsv23eF1qwZTgNB/view?usp=sharing) | |
-| 14 | Tu 4/27 | 24. ML: Model training, serving, and monitoring 25. Parallelization: Map-Reduce, Spark, Parallel DBMS, Dask/Modin | Multivitamin 5 |
+| 14 | Tu 4/27 | 24. [Parallelization: Map-Reduce, Spark, Parallel DBMS, Dask/Modin](https://drive.google.com/file/d/1P4g6Zz3SmAjFRCA8l6JnnGFg_CaUe8kf/view?usp=sharing) 25.  ML: Model training, serving, and monitoring| Multivitamin 5 |
 |  | Th 4/29 | 26. Security and Privacy | Extra Credit Project |
 | 15 | Tu 5/4 | **RRR Week** | |
 |  | Th 5/6 | **RRR Week** | |
