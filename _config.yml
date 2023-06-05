@@ -18,7 +18,7 @@ description: Data Engineering
 author: Allen Shen
 email: allenshen5@berkeley.edu
 baseurl: ~ # the subpath of your site, e.g. /blog
-url: 'https://cal-data-eng.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://sp21.data101.org' # the base hostname & protocol for your site, e.g. http://example.com
 
 # Theme settings
 remote_theme: pmarsceill/just-the-docs@v0.2.5-release
