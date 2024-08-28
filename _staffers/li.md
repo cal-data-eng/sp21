@@ -3,7 +3,7 @@ name: Lexy Li
 role: Reader
 email: lexyyxl@berkeley.edu
 website: https://lexyyxl.github.io/personalWebsite/
-photo: ../resources/assets/staff_pics/Lexy_Li.JPG
+photo: Lexy_Li.JPG
 oh: Tu 7-8PM
 pronouns: she/her/hers
 ---

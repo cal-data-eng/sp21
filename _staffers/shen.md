@@ -3,7 +3,7 @@ name: Allen Shen
 role: Teaching Assistant
 email: allenshen5@berkeley.edu
 website: https://allenshen5.github.io/
-photo: ../resources/assets/staff_pics/Allen_Shen.jpg
+photo: Allen_Shen.jpg
 oh: M 1-2PM
 pronouns: he/him/his
 ---
