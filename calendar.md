@@ -5,6 +5,9 @@ nav_order: 4
 description: Calendars with times for all course events.
 ---
 
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://data101.org/)
+
 # Calendar
 
 To access TA and reader office hours, use our [Office Hours Queue](https://oh.dataeng.not.cs61a.org/). When it’s your turn, you will be given the Zoom link to join. To access all other events, use the Zoom links posted in [**@29 on Piazza**](https://piazza.com/class/kjp0a6pvfhm6o3?cid=29) (or the Piazza post corresponding to the event).
